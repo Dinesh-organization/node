@@ -1,5 +1,5 @@
 #!/bin/bash
 cd /var/www/node/
-git revert HEAD-3
+git revert HEAD
 npm install
 pm2 restart nodeapp
