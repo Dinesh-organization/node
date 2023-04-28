@@ -1,2 +1,4 @@
 deploy.sh
+portcheck.sh
+revert.sh
 /node_modules
